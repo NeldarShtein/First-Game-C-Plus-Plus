@@ -1,0 +1,2 @@
+# First-Game-C-Plus-Plus
+This is a console RPG game. The game is an endless battle with ordinary enemies and bosses, a gradual increase in the level of the character and his characteristics, during the game the levels of enemies also increase, after each battle the player has the opportunity to restore health or continue the battle. The program runs in the window console and does not use any additional libraries.
